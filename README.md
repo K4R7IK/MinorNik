@@ -41,4 +41,5 @@ You can preview the production build with `npm run preview`.
 # Preview
 ![Screenshot](./assets/preview1.png)
 ![Screenshot](./assets/preview2.png)
+![gif](./assets/preview.gif)
 
